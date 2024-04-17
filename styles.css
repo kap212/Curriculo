@@ -80,4 +80,5 @@ img {
 }
 .btns:hover {
    background-position: right;
+   transform: scale(1.1);
 }
